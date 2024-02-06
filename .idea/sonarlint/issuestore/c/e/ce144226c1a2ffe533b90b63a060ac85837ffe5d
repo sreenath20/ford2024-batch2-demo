@@ -1,0 +1,43 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÓÝ€Í
+o
+java:S4276"TRefactor this code to use the more specialised Functional Interface 'DoubleSupplier'(×ßÂ†úÿÿÿÿ
+n
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(×ßÂ†úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ö‹ð£ûÿÿÿÿ
+J
+java:S1611"/Remove the parentheses around the "s" parameter(Šõˆªùÿÿÿÿ
+[
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(Šõˆªùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Šõˆªùÿÿÿÿ
+m
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(¬ðžÇøÿÿÿÿ
+J
+java:S1611"/Remove the parentheses around the "n" parameter(¬ðžÇøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Èö¶êüÿÿÿÿ
+q
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(·Î•¼
+E
+java:S1611"/Remove the parentheses around the "s" parameter(·Î•¼
+V
+java:S1612"@Replace this lambda with method reference 'String::toUpperCase'.(·Î•¼
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ä Áüüÿÿÿÿ
+r
+java:S4276"\Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Double>'(“±¹È
+i
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(“±¹È
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(†Â‘Íøÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(úÄøìþÿÿÿÿ
+Q	java:S125)"<This block of commented-out lines of code should be removed.(þºüÑ
+K
+java:S1611+"0Remove the parentheses around the "li" parameter(¿ñ¼•ÿÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(ç„Šûÿÿÿÿ
+Q	java:S1253"<This block of commented-out lines of code should be removed.(’Ñ€¿
+E
+java:S16118"/Remove the parentheses around the "p" parameter(Ôƒ‘Þ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(ú®Âçùÿÿÿÿ
+t
+java:S4276<"YRefactor this code to use the more specialised Functional Interface 'UnaryOperator<List>'(¨ÖÂ‘ýÿÿÿÿ
+K
+java:S1611<"0Remove the parentheses around the "ln" parameter(¨ÖÂ‘ýÿÿÿÿ
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(ï§²Í

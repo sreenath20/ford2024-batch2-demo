@@ -1,0 +1,20 @@
+
+6
+java:S2326"T is not used in the class.(Ý¹¿Ìÿÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(Ýàý¡þÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ýàý¡þÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¼¡Ä¼
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ýàý¡þÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¼¡Ä¼
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¿úë¢8Éò¸ò×1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¿úë¢8”ñÌò×1
+l
+java:S1192
+"QDefine a constant instead of duplicating this literal "data Class name:" 3 times.(Ýàý¡þÿÿÿÿ
+S
+java:S4977"=Rename "T" which hides a type parameter from the outer scope.(¯¡®‡
+X
+java:S4977"=Rename "T" which hides a type parameter from the outer scope.(ÏÅŽºùÿÿÿÿ
+X
+java:S4977"=Rename "T" which hides a type parameter from the outer scope.(Ì›ô…øÿÿÿÿ
